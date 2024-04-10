@@ -20,5 +20,3 @@ sudo apt-get install libxrandr-dev
 make -j3
 
 echo "Done"
-
-echo "script By TigerClips1"
